@@ -24,9 +24,6 @@ This project explores venture capital (VC) investment trends using a cleaned dat
 
 ---
 
-
----
-
 ## 🧮 Key SQL Queries
 
 Here are examples of the queries used:
@@ -42,6 +39,7 @@ ORDER BY total_funding DESC
 LIMIT 10;
 
 ---
+```
 
 📈 Visualizations in Tableau
 The following charts were created:
