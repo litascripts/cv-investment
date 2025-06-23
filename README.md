@@ -56,6 +56,8 @@ The following charts were created:
 
 🗓 Date: June 2025
 
+---
+
 📎 Connect With Me
 
 🌐 [LinkedIn](https://www.linkedin.com/in/lita-utami-wulandari/)
