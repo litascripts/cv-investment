@@ -28,7 +28,7 @@ This project explores venture capital (VC) investment trends using a cleaned dat
 
 Here are examples of the queries used:
 
-### 🔹 Top Countries by Total Funding
+🔹 Top Countries by Total Funding
 ```sql
 SELECT country_code, SUM(funding_total_usd_clean) AS total_funding
 FROM investments
@@ -44,7 +44,7 @@ LIMIT 10;
 📈 Visualizations in Tableau
 The following charts were created:
 [View Tableau Dashboard](https://public.tableau.com/app/profile/lita/viz/InvestmentDashboard_17506958718800/InvestmentDashboard?publish=yes)
-[Investment Dashboard](https://github.com/user-attachments/assets/5bf13676-f7e5-4d7b-be2d-971b920cf709)
+![Investment Dashboard](https://github.com/user-attachments/assets/5bf13676-f7e5-4d7b-be2d-971b920cf709)
 
 ---
 
